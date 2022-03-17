@@ -1,0 +1,10 @@
+{
+  "name": "twitter-api",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "twitter-api-v2": "^1.11.0"
+  }
+}
