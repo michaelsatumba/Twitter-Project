@@ -2,7 +2,7 @@ import fs from 'fs';
 
 import { TwitterApi } from 'twitter-api-v2';
 
-const SEARCH_TERM = 'Hydros';
+const SEARCH_TERM = 'Vicodin';
 
 const QUERY_PARAMS = ' -is:retweet';
 
