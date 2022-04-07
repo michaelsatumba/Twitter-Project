@@ -16,9 +16,13 @@ while (true) {
   }
   newObject.tags = tags;
   const sentiment = rl.question("Sentiment? > ");
-  if (sentiment === "negative" || sentiment === "neg" || sentiment === "false") {
+  if (
+    sentiment === "negative" || sentiment === "neg" || sentiment === "false"
+  ) {
     newObject.sentiment = false;
-  } else if (sentiment === "positive" || sentiment === "pos" || sentiment === "true") {
+  } else if (
+    sentiment === "positive" || sentiment === "pos" || sentiment === "true"
+  ) {
     newObject.sentiment = true;
   } else {
     newObject.sentiment = sentiment;
