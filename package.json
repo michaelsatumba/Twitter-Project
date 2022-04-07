@@ -5,6 +5,7 @@
   "license": "MIT",
   "type": "module",
   "dependencies": {
+    "readline-sync": "^1.4.10",
     "twitter-api-v2": "^1.11.0"
   }
 }

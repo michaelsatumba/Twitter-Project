@@ -1,0 +1,86 @@
+{
+  "sequence_index": 9,
+  "data": [
+    {
+      "tweet": {
+        "id": "1500998000101011460",
+        "text": "an oxycodone prescription is a dangerous thing for a woman like me 2 have…but i have it",
+        "search_term": "oxycodone"
+      },
+      "tags": "prescription,abuse",
+      "sentiment": false
+    },
+    {
+      "tweet": {
+        "id": "1500995581342216192",
+        "text": "@kondracke trust me they are not bankrupt they claim bankruptcy they’ll just produce their drugs under another name there are still making oxycodone",
+        "search_term": "oxycodone"
+      },
+      "tags": "unknown",
+      "sentiment": false
+    },
+    {
+      "tweet": {
+        "id": "1500995007909535744",
+        "text": "Large quantity of oxycodone seized during Kamloops traffic stop #kamloops https://t.co/PVW2cVPBT1 https://t.co/4S0DRE2IqI",
+        "search_term": "oxycodone"
+      },
+      "tags": "info",
+      "sentiment": false
+    },
+    {
+      "tweet": {
+        "id": "1500995004856107012",
+        "text": "Large quantity of oxycodone seized during Kamloops traffic stop #kamloops https://t.co/hfbaebIUlD https://t.co/nchSNKcil9",
+        "search_term": "oxycodone"
+      },
+      "tags": "info",
+      "sentiment": false
+    },
+    {
+      "tweet": {
+        "id": "1500995002985373702",
+        "text": "Large quantity of oxycodone seized during Kamloops traffic stop #kamloops https://t.co/7r5lDlt5yh https://t.co/wrtTbaWRht",
+        "search_term": "oxycodone"
+      },
+      "tags": "info",
+      "sentiment": false
+    },
+    {
+      "tweet": {
+        "id": "1500995001127374849",
+        "text": "Large quantity of oxycodone seized during Kamloops traffic stop #kamloops https://t.co/PUBUzdaUpt https://t.co/7b59tdvgW9",
+        "search_term": "oxycodone"
+      },
+      "tags": "info",
+      "sentiment": false
+    },
+    {
+      "tweet": {
+        "id": "1500983059524595718",
+        "text": "@babyy7k This is just norco in liquid form . So oxycodone is technically stronger . But the tuss is still stupid fire",
+        "search_term": "oxycodone"
+      },
+      "tags": "abuse",
+      "sentiment": true
+    },
+    {
+      "tweet": {
+        "id": "1500980986657468417",
+        "text": "#Kamloops RCMP say they seized four kilos of suspected Oxycodone, a stolen trailer, and $1,800 in cash during a traffic stop on Sunday, Feb. 27. https://t.co/m0GTe8PCUw https://t.co/2NP4NO5Hy1",
+        "search_term": "oxycodone"
+      },
+      "tags": "info",
+      "sentiment": false
+    },
+    {
+      "tweet": {
+        "id": "1500978081661653003",
+        "text": "@Jotaro_Fujo @hubbywubbs Are you oxycodone?",
+        "search_term": "oxycodone"
+      },
+      "tags": "abuse",
+      "sentiment": true
+    }
+  ]
+}
