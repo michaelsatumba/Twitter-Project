@@ -34,17 +34,17 @@ features = vectorizer.fit_transform(
     train
 )
 
-features_nd = features.toarray()
+features_array = features.toarray()
 
+# print(features_array)
 
 X_train, X_test, y_train, y_test = train_test_split(
-    features_nd,
+    features_array,
     train_labels,
     train_size=0.75,
     random_state=1234)
 
 
-# print(features_nd)
 
 
 
