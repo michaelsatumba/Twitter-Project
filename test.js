@@ -74,5 +74,5 @@ for (let i = 0; i < wordList.length; i++) {
 			count += 1;
 		}
 	}
-	console.log(`${wordList[i]}: ${count}`, i);
+	console.log(`${wordList[i]}: ${count}`);
 }
