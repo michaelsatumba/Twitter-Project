@@ -2,7 +2,7 @@ import fs from 'fs';
 
 let database = JSON.parse(fs.readFileSync('database.json', 'utf-8'));
 
-// console.log(database.length);
+console.log(database.length);
 
 const wordList = [
 	'aa',
@@ -75,4 +75,5 @@ for (let i = 0; i < wordList.length; i++) {
 		}
 	}
 	console.log(`${wordList[i]}: ${count}`);
+	console.log(`${wordList[i]}: ${(count / database.length) * 100}%`);
 }
