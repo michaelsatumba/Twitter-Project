@@ -75,5 +75,7 @@ for (let i = 0; i < wordList.length; i++) {
 		}
 	}
 	console.log(`${wordList[i]}: ${count}`);
-	console.log(`${wordList[i]}: ${(count / database.length) * 100}%`);
+	console.log(
+		`${wordList[i]}: ${((count / database.length) * 100).toFixed(3)}%`
+	);
 }
