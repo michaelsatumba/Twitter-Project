@@ -17,3 +17,5 @@ goes over how to install the necessary dependencies and run the script.
 1. `yarn` or `npm install` (prefer yarn)
 
 2. `API_KEY=<twitter api key> node main.js`
+
+3. `node test.js`
