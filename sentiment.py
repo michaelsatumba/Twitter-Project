@@ -2,10 +2,10 @@ from transformers import AutoTokenizer, AutoModelForSequenceClassification
 from scipy.special import softmax
 
 # negative
-# tweet = "@MehranShakarami today's cold @ home 😒 https://mehranshakarami.com" 
+tweet = "@MehranShakarami today's cold @ home 😒 https://mehranshakarami.com" 
 
 # postive
-tweet = 'Great content! subscribed 😉'
+# tweet = 'Great content! subscribed 😉'
 
 # precprcess tweet
 tweet_words = []
