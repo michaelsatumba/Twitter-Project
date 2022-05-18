@@ -19,3 +19,12 @@ goes over how to install the necessary dependencies and run the script.
 2. `API_KEY=<twitter api key> node main.js`
 
 3. `node test.js`
+
+4. `pip install scipy
+pip install pandas
+pip install transformers
+pip install scikit-learn
+pip install PyStemmer
+cd python/
+python3 final.py`
+
