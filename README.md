@@ -20,11 +20,7 @@ goes over how to install the necessary dependencies and run the script.
 
 3. `node test.js`
 
-4. `pip install scipy
-pip install pandas
-pip install transformers
-pip install scikit-learn
-pip install PyStemmer
-cd python/
-python3 final.py`
+4. `pip install scipy pandas transformers scikit-learn PyStemmer`
+
+5. `cd python/python3 final.py`
 
